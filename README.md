@@ -27,7 +27,7 @@ If the above API's are deprecated or you are unable to collect data, we have sto
 ```
 ├── home  
 │   ├── Causal_Data_Science_Notebook.ipynb   --- Main Notebook with the analysis
-│   ├── model_tests_notebook.ipynb  		 --- R notebook with the tests used in the main notebook
+│   ├── model_tests_notebook.ipynb   --- R notebook with the tests used in the main notebook
 │   ├── data
 │       ├── listings.csv        			---data directly from Airbnb from Feb 13th 2020
 │       ├── listings_manual.csv 			---listing with their price estimates, scrapped manually*
