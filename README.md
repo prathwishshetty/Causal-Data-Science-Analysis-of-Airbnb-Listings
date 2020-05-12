@@ -25,7 +25,7 @@ If the above API's are deprecated or you are unable to collect data, we have sto
 ## Directory Dictionary
 
 ```
-├── home\n
+├── home  
 │   ├── Causal_Data_Science_Notebook.ipynb   --- Main Notebook with the analysis
 │   ├── model_tests_notebook.ipynb  		 --- R notebook with the tests used in the main notebook
 │   ├── data
